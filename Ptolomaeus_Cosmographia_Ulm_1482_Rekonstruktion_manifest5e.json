@@ -7385,12 +7385,13 @@
     {
       "label": "Persistent Identifier SBB",
       "value": "http://resolver.staatsbibliothek-berlin.de/SBB0001D9BD00000000"
-    },
+    }
   ],
   "@id": "https://raw.githubusercontent.com/ylvaZB/Ptolemaeus/main/Ptolomaeus_Cosmographia_Ulm_1482_Rekonstruktion_manifest5.json",
   "@type": "sc:Manifest",
-  "@context": "http://iiif.io/api/image/2/context.json"
+  "@context": "http://iiif.io/api/image/2/context.json",
   "logo": "https://content.staatsbibliothek-berlin.de/dc/86344203X-0225/4442,2464,1455,1148/full/0/default.jpg",
   "description": {
     "@value": "Ptolomaeus Atlas 1482 und die Rekonstruktion gestohlener Welten: Ein im Rahmen eines CAS Informations- und Datenmanagement umgesetztes Projekt mit dem Ziel, die Möglichkeiten die IIIF bieten auszuloten und zu visualisieren.\nDie digitale Reproduktion des Zürcher Atlas, aus dem Ende 70er Anfang 80er Jahre, 15 Karten geraubt wurden, wird mit Seiten der digitalen Reproduktion Berlins vervollständigt. Exemplarisch werden in Annotationen Erkenntnisse und Erläuterungen zur \"Cosmographia nach Claudius Ptolomaeus, hrsg. von Nicolaus Germanus, Ulm 16. Juli 1482\" festgehalten.\n"
   }
+}
