@@ -1,4 +1,3 @@
-// https://raw.githubusercontent.com/ylvaZB/Ptolemaeus/main/Ptolomaeus_Cosmographia_Ulm_1482_Rekonstruktion_manifest5.json
 {
   "attribution": {},
   "service": [],
@@ -7387,7 +7386,7 @@
       "value": "http://resolver.staatsbibliothek-berlin.de/SBB0001D9BD00000000"
     }
   ],
-  "@id": "https://raw.githubusercontent.com/ylvaZB/Ptolemaeus/main/Ptolomaeus_Cosmographia_Ulm_1482_Rekonstruktion_manifest5.json",
+  "@id": "https://raw.githubusercontent.com/eliaskreyenbuehl/manifests/main/Ptolomaeus_Cosmographia_Ulm_1482_Rekonstruktion_manifest5e.json",
   "@type": "sc:Manifest",
   "@context": "http://iiif.io/api/image/2/context.json",
   "logo": "https://content.staatsbibliothek-berlin.de/dc/86344203X-0225/4442,2464,1455,1148/full/0/default.jpg",
