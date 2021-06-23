@@ -1,0 +1,444 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://85b2302b-c306-4936-9a35-91cf98265b63",
+	"@type": "sc:Manifest",
+	"label": "6 Portails sur Memobase.ch",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "fr"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://85654678-dc28-4f69-a21e-72766f9c2f55",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://0fea3498-c192-4fb8-a87a-0a61172d94f4",
+					"@type": "sc:Canvas",
+					"label": "Arc monumental de Lucius Pompeius Campanus",
+					"height": 3780,
+					"width": 4370,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://56ed1175-9a5d-41ab-99a2-ff4e814a8b4f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://media.memobase.k8s.unibas.ch/memo/mgb-002-GP-DAG-013-1/iiif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://media.memobase.k8s.unibas.ch/memo/mgb-002-GP-DAG-013-1/iiif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 16518600,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3780,
+								"width": 4370
+							},
+							"on": "http://0fea3498-c192-4fb8-a87a-0a61172d94f4"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c1ca6ac3-e5ec-4fa8-9646-6ad18ab709fe",
+					"@type": "sc:Canvas",
+					"label": "Algérie - Timgad",
+					"height": 477,
+					"width": 620,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1161db4a-6bcb-41c7-bfe5-1cab6e6838f2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://media.memobase.k8s.unibas.ch/memo/ias-001-UNIL_FC_0887-1/iiif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://media.memobase.k8s.unibas.ch/memo/ias-001-UNIL_FC_0887-1/iiif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 295740,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 477,
+								"width": 620
+							},
+							"on": "http://c1ca6ac3-e5ec-4fa8-9646-6ad18ab709fe"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://26ff213b-1923-4e5e-80c9-9ada212a6a50",
+					"@type": "sc:Canvas",
+					"label": "Algérie - Timgad II",
+					"height": 620,
+					"width": 480,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://acc57afe-0910-4674-b7b7-c91b0abba65c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://media.memobase.k8s.unibas.ch/memo/ias-001-UNIL_FC_0891-1/iiif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://media.memobase.k8s.unibas.ch/memo/ias-001-UNIL_FC_0891-1/iiif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 297600,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 620,
+								"width": 480
+							},
+							"on": "http://26ff213b-1923-4e5e-80c9-9ada212a6a50"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9966cece-a33e-41d8-8043-6053a54c8ee9",
+					"@type": "sc:Canvas",
+					"label": "Grèce - Salonique - Thessalonique",
+					"height": 445,
+					"width": 620,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8d56f530-c9d2-452d-aa54-a19b83849789",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://media.memobase.k8s.unibas.ch/memo/ias-001-UNIL_FC_2047-1/iiif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://media.memobase.k8s.unibas.ch/memo/ias-001-UNIL_FC_2047-1/iiif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 275900,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 445,
+								"width": 620
+							},
+							"on": "http://9966cece-a33e-41d8-8043-6053a54c8ee9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c1f0d28d-5623-4a09-afe3-d8f142abf1fd",
+					"@type": "sc:Canvas",
+					"label": "Quadriportico e facciata della Basilica di Sant'Ambrogio",
+					"height": 647,
+					"width": 800,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b647470d-b389-425a-a639-82057d9e543e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://media.memobase.k8s.unibas.ch/memo/baa-001-828-1/iiif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://media.memobase.k8s.unibas.ch/memo/baa-001-828-1/iiif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 517600,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 647,
+								"width": 800
+							},
+							"on": "http://c1f0d28d-5623-4a09-afe3-d8f142abf1fd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7117dd8b-d27e-4b3a-9127-3fd49cf01bc5",
+					"@type": "sc:Canvas",
+					"label": "Arco delle Scalette, ingresso al Santuario del Monte Berico",
+					"height": 800,
+					"width": 639,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://10d48317-d34a-4a98-ad1c-fac8ef9d8e95",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://media.memobase.k8s.unibas.ch/memo/baa-001-723-1/iiif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://media.memobase.k8s.unibas.ch/memo/baa-001-723-1/iiif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 511200,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 800,
+								"width": 639
+							},
+							"on": "http://7117dd8b-d27e-4b3a-9127-3fd49cf01bc5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://102439fe-c743-4d97-9119-985f12f5bf6d",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 0,
+					"width": 0,
+					"images": [],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://c1ca6ac3-e5ec-4fa8-9646-6ad18ab709fe"
+	}
+}
