@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/c44d9cdc-e710-4b7f-a52e-05e2fa8175d2.json",
+	"@id": "https://raw.githubusercontent.com/eliaskreyenbuehl/manifests/main/papyrus_manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Bodleian Library MS. Gr. bib. g. 4 (P)",
 	"description": "Acts of the Apostles",
