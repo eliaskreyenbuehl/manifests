@@ -1,0 +1,573 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://bcca7bc3-b81e-43a4-ac0d-803439edb235",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://21a7074b-fec0-4054-9eac-fd8ef0750997",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://acbf384a-8183-40f6-a768-8579a02a68e1",
+					"@type": "sc:Canvas",
+					"label": "[5]",
+					"height": 10400,
+					"width": 7200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7939fd22-3398-4ce7-b494-9c335df7b3fe",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://www.e-rara.ch/zuz/i3f/v20/25511562/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://www.e-rara.ch/zuz/i3f/v20/25511562",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"regionSquare",
+												"rotationArbitrary",
+												"sizeAboveFull",
+												"sizeByConfinedWh",
+												"sizeByDistortedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											],
+											"qualities": [
+												"default",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"formats": [
+												"jpg"
+											]
+										}
+									]
+								},
+								"height": 10400,
+								"width": 7200
+							},
+							"on": "http://acbf384a-8183-40f6-a768-8579a02a68e1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b7e5c0df-bfdd-44e0-b0e2-a2d39d962140",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 10400,
+					"width": 7200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dde8f00d-b321-4142-84f6-ff2a7b379432",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://www.e-rara.ch/zuz/i3f/v21/25511565/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://www.e-rara.ch/zuz/i3f/v21/25511565",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"regionSquare",
+												"rotationArbitrary",
+												"sizeAboveFull",
+												"sizeByConfinedWh",
+												"sizeByDistortedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											],
+											"qualities": [
+												"default",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"formats": [
+												"jpg"
+											]
+										}
+									]
+								},
+								"height": 10400,
+								"width": 7200
+							},
+							"on": "http://b7e5c0df-bfdd-44e0-b0e2-a2d39d962140"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b8392582-3e92-4e92-a25e-702b6e0b9909",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 10400,
+					"width": 7200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2cb9f3ee-194e-4222-92fe-47b5a4485299",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://www.e-rara.ch/zuz/i3f/v21/25511581/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://www.e-rara.ch/zuz/i3f/v21/25511581",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"regionSquare",
+												"rotationArbitrary",
+												"sizeAboveFull",
+												"sizeByConfinedWh",
+												"sizeByDistortedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											],
+											"qualities": [
+												"default",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"formats": [
+												"jpg"
+											]
+										}
+									]
+								},
+								"height": 10400,
+								"width": 7200
+							},
+							"on": "http://b8392582-3e92-4e92-a25e-702b6e0b9909"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://afecd539-2210-4933-9f2a-04baffa3c9ff",
+					"@type": "sc:Canvas",
+					"label": "f. 66v",
+					"height": 10400,
+					"width": 7200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a249fd2c-4a13-47fb-9f5e-50b85b798324",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://www.e-rara.ch/zuz/i3f/v21/25511693/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://www.e-rara.ch/zuz/i3f/v21/25511693",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"regionSquare",
+												"rotationArbitrary",
+												"sizeAboveFull",
+												"sizeByConfinedWh",
+												"sizeByDistortedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											],
+											"qualities": [
+												"default",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"formats": [
+												"jpg"
+											]
+										}
+									]
+								},
+								"height": 10400,
+								"width": 7200
+							},
+							"on": "http://afecd539-2210-4933-9f2a-04baffa3c9ff"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://51bdddbe-7233-4608-8d35-b072c31207b3",
+					"@type": "sc:Canvas",
+					"label": "f. 66v Durchlicht",
+					"height": 3024,
+					"width": 4032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1fda34ff-5796-453e-bbd1-9ebb521beba6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/7437ebd39edc57457ddb35294720e6343c0e1afc4ce4777e05d4bd20e66414a3/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/7437ebd39edc57457ddb35294720e6343c0e1afc4ce4777e05d4bd20e66414a3",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3024,
+								"width": 4032
+							},
+							"on": "http://51bdddbe-7233-4608-8d35-b072c31207b3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://546e88ef-a6a3-40c4-a689-eb087e47ae90",
+					"@type": "sc:Canvas",
+					"label": "f 100v-101r [SBB]",
+					"height": 5400,
+					"width": 7003,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://22c6f9f1-7c90-4ba1-bdf0-6d02ccbb5b2a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://content.staatsbibliothek-berlin.de/dc/86344203X-0210/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://content.staatsbibliothek-berlin.de/dc/86344203X-0210",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"webp",
+												"tif"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"rotationArbitrary",
+												"profileLinkHeader",
+												"http://example.com/feature/"
+											]
+										}
+									]
+								},
+								"height": 5400,
+								"width": 7003
+							},
+							"on": "http://546e88ef-a6a3-40c4-a689-eb087e47ae90"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://2757d267-9844-40fe-9705-09eef49ff87d",
+					"@type": "sc:Canvas",
+					"label": "Karte 9 [144]",
+					"height": 10400,
+					"width": 7200,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://abfd2a31-ba0c-42bc-8a1f-d7e1f5399db4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://www.e-rara.ch/zuz/i3f/v21/25511702/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://www.e-rara.ch/zuz/i3f/v21/25511702",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"baseUriRedirect",
+												"cors",
+												"jsonldMediaType",
+												"mirroring",
+												"regionByPct",
+												"regionByPx",
+												"regionSquare",
+												"rotationArbitrary",
+												"sizeAboveFull",
+												"sizeByConfinedWh",
+												"sizeByDistortedWh",
+												"sizeByH",
+												"sizeByPct",
+												"sizeByW",
+												"sizeByWh"
+											],
+											"qualities": [
+												"default",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"formats": [
+												"jpg"
+											]
+										}
+									]
+								},
+								"height": 10400,
+								"width": 7200
+							},
+							"on": "http://2757d267-9844-40fe-9705-09eef49ff87d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://90d11844-1310-495a-ad35-820005ac8730",
+					"@type": "sc:Canvas",
+					"label": "[142] Streiflicht",
+					"height": "4032",
+					"width": "3024",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5e634dae-d927-4f0a-9759-6e4dec0bdf44",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/1addcb137710d9d25a98f62ebe1ef5d82f2171e6167657ee66873f7d17a4d762/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/1addcb137710d9d25a98f62ebe1ef5d82f2171e6167657ee66873f7d17a4d762",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4032,
+								"width": 3024
+							},
+							"on": "http://90d11844-1310-495a-ad35-820005ac8730"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6e91ca33-2cbc-45b2-bb86-26c2a004d23c",
+					"@type": "sc:Canvas",
+					"label": "111r [231], SBB: 2° Inc 2640",
+					"height": 5400,
+					"width": 7174,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ee91aabb-4b07-44f7-b5c7-36e4b54987af",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://content.staatsbibliothek-berlin.de/dc/86344203X-0231/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://content.staatsbibliothek-berlin.de/dc/86344203X-0231",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"png",
+												"webp",
+												"tif"
+											],
+											"qualities": [
+												"color",
+												"gray"
+											],
+											"supports": [
+												"canonicalLinkHeader",
+												"rotationArbitrary",
+												"profileLinkHeader",
+												"http://example.com/feature/"
+											]
+										}
+									]
+								},
+								"height": 5400,
+								"width": 7174
+							},
+							"on": "http://6e91ca33-2cbc-45b2-bb86-26c2a004d23c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://56014cd5-8b09-4f1f-91d8-a38b92cd6b15",
+					"@type": "sc:Canvas",
+					"label": "Spuren der Papierherstellung - Blick durch die Lupe",
+					"height": 4032,
+					"width": 3024,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ce0ea076-6189-4aee-bc69-ab76625c560c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://free.iiifhosting.com/iiif/dce5741b3437169a37475ffec3544cae7b2004742bbf1d40df4bb808c3f31fa6/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://free.iiifhosting.com/iiif/dce5741b3437169a37475ffec3544cae7b2004742bbf1d40df4bb808c3f31fa6",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4032,
+								"width": 3024
+							},
+							"on": "http://56014cd5-8b09-4f1f-91d8-a38b92cd6b15"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
