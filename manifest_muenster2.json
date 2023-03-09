@@ -1,5 +1,5 @@
 {
-    "@id": "https://www.e-rara.ch/i3f/v20/24389624/manifest",
+    "@id": "https://raw.githubusercontent.com/eliaskreyenbuehl/manifests/main/manifest_muenster2.json",
     "@type": "sc:Manifest",
     "label": "",
     "metadata": [
@@ -43,7 +43,7 @@
                     "@id": "https://www.e-rara.ch/i3f/v20/24389624/canvas/24389625",
                     "@type": "sc:Canvas",
                     "height": 7357,
-                    "width": 6243,
+                    "width": 5442,
                     "label": "Photochromdruck, ca. 1902",
                     "metadata": [
                         {
@@ -59,11 +59,11 @@
                             "motivation": "sc:painting",
                             "on": "https://www.e-rara.ch/i3f/v20/24389624/canvas/24389625#xywh=1472.2237999999998,1248.6000000000001,3745.7999999999997,4412.5524000000005",
                             "resource": {
-                                "@id": "https://www.e-rara.ch/download/webcache/1000/24389625",
+                                "@id": "https://www.e-rara.ch/zuz/i3f/v21/24389625/0,0,5444,7357/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 7246,
-                                "width": 5427,
+                                "height": 7357,
+                                "width": 5357,
                                 "service": {
                                     "@id": "https://www.e-rara.ch/i3f/v20/24389625",
                                     "profile": "level2"
@@ -124,7 +124,7 @@
                                         }
                                     ],
                                     "protocol": "http://iiif.io/api/image",
-                                    "width": 6243,
+                                    "width": 5442,
                                     "height": 7357,
                                     "sizes": [
                                         {
