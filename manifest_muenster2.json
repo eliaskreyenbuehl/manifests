@@ -1,0 +1,973 @@
+{
+    "@id": "https://www.e-rara.ch/i3f/v20/24389624/manifest",
+    "@type": "sc:Manifest",
+    "label": "",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "Bern. Das Münster"
+        },
+        {
+            "label": "Imprint",
+            "value": "[Zürich] : [Photoglob & Co. Zürich], [zwischen 1902 und 1904]"
+        },
+        {
+            "label": "Providing Institution",
+            "value": "none"
+        },
+        {
+            "label": "Online since",
+            "value": "10/09/2020"
+        }
+    ],
+    "description": "",
+    "thumbnail": {
+        "@id": "https://www.e-rara.ch/i3f/v21/24389625/full/304/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 358,
+        "width": 304
+    },
+    "attribution": "e-rara, the platform for digitized rare books from Swiss institutions",
+    "seeAlso": {
+        "@id": "https://www.e-rara.ch/oai?verb=GetRecord&metadataPrefix=mets&identifier=24389624",
+        "format": "application/xml",
+        "label": "METS"
+    },
+    "sequences": [
+        {
+            "@id": "https://www.e-rara.ch/i3f/v20/24389624/manifest/sequence0",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://www.e-rara.ch/i3f/v20/24389624/canvas/24389625",
+                    "@type": "sc:Canvas",
+                    "height": 7357,
+                    "width": 6243,
+                    "label": "Photochromdruck, ca. 1902",
+                    "metadata": [
+                        {
+                            "label": "titel",
+                            "value": "Das Berner Münster"
+                        }
+                    ],
+                    "navDate": "1902",
+                    "images": [
+                        {
+                            "@id": "https://www.e-rara.ch/i3f/v20/24389624/annotation/24389625",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://www.e-rara.ch/i3f/v20/24389624/canvas/24389625#xywh=1472.2237999999998,1248.6000000000001,3745.7999999999997,4412.5524000000005",
+                            "resource": {
+                                "@id": "https://www.e-rara.ch/download/webcache/1000/24389625",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 7246,
+                                "width": 5427,
+                                "service": {
+                                    "@id": "https://www.e-rara.ch/i3f/v20/24389625",
+                                    "profile": "level2"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/9e5ac1d9-ddbe-48c6-8bb3-8a6b2a7694ef",
+                    "@type": "sc:Canvas",
+                    "height": 7357,
+                    "width": 5442,
+                    "label": "zugeschnitten",
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/9e5ac1d9-ddbe-48c6-8bb3-8a6b2a7694ef/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/9e5ac1d9-ddbe-48c6-8bb3-8a6b2a7694ef#xywh=0,0,5442.2,4414.2",
+                            "resource": {
+                                "@id": "https://www.e-rara.ch/i3f/v21/24389625/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 7357,
+                                "width": 5442,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.e-rara.ch/zuz/i3f/v21/24389625",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "supports": [
+                                                "baseUriRedirect",
+                                                "cors",
+                                                "jsonldMediaType",
+                                                "mirroring",
+                                                "regionByPct",
+                                                "regionByPx",
+                                                "regionSquare",
+                                                "rotationArbitrary",
+                                                "sizeAboveFull",
+                                                "sizeByConfinedWh",
+                                                "sizeByDistortedWh",
+                                                "sizeByH",
+                                                "sizeByPct",
+                                                "sizeByW",
+                                                "sizeByWh"
+                                            ],
+                                            "qualities": [
+                                                "default",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "formats": [
+                                                "jpg"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 6243,
+                                    "height": 7357,
+                                    "sizes": [
+                                        {
+                                            "width": 128,
+                                            "height": 151
+                                        },
+                                        {
+                                            "width": 304,
+                                            "height": 358
+                                        },
+                                        {
+                                            "width": 504,
+                                            "height": 594
+                                        },
+                                        {
+                                            "width": 800,
+                                            "height": 943
+                                        },
+                                        {
+                                            "width": 1000,
+                                            "height": 1178
+                                        },
+                                        {
+                                            "width": 1200,
+                                            "height": 1414
+                                        },
+                                        {
+                                            "width": 1504,
+                                            "height": 1772
+                                        },
+                                        {
+                                            "width": 2000,
+                                            "height": 2357
+                                        },
+                                        {
+                                            "width": 4000,
+                                            "height": 4714
+                                        },
+                                        {
+                                            "width": 6243,
+                                            "height": 7357
+                                        }
+                                    ],
+                                    "type": "ImageService",
+                                    "id": "https://www.e-rara.ch/zuz/i3f/v21/24389625"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/2b03fa85-e66a-4846-81db-9e161208b445",
+                    "@type": "sc:Canvas",
+                    "height": 768,
+                    "width": 728,
+                    "label": "Diakonissen im Münster, 1936",
+                    "description": "",
+                    "navDate": "1944-03-16",
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/2b03fa85-e66a-4846-81db-9e161208b445/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/2b03fa85-e66a-4846-81db-9e161208b445",
+                            "resource": {
+                                "@id": "https://example.org/image/688b0443-a6e1-4cbb-8d4f-a93ab2272c7a",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "height": 768,
+                                "width": 728,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://media.memobase.ch/iiif/abe-001-FN_Jost_N_2493-1/open/iiif/2/abe-001-FN_Jost_N_2493-1.jpg",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 728,
+                                    "height": 768,
+                                    "sizes": [
+                                        {
+                                            "width": 91,
+                                            "height": 96
+                                        },
+                                        {
+                                            "width": 182,
+                                            "height": 192
+                                        },
+                                        {
+                                            "width": 364,
+                                            "height": 384
+                                        },
+                                        {
+                                            "width": 728,
+                                            "height": 768
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "width": 512,
+                                            "height": 512,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8
+                                            ]
+                                        }
+                                    ],
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "formats": [
+                                                "tif",
+                                                "jpg",
+                                                "gif",
+                                                "png"
+                                            ],
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "type": "ImageService"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/4a7ecf86-9d0d-47ec-9aea-f29a04363d46",
+                    "@type": "sc:Canvas",
+                    "height": 1178,
+                    "width": 1200,
+                    "label": "Fialen\n",
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/4a7ecf86-9d0d-47ec-9aea-f29a04363d46/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/4a7ecf86-9d0d-47ec-9aea-f29a04363d46",
+                            "resource": {
+                                "@id": "https://example.org/image/6ab89c4b-e26b-4a33-a59b-352e3558e821",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "height": 1178,
+                                "width": 1200,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://media.memobase.ch/iiif/bbb-002-373074-1/open/iiif/2/bbb-002-373074-1.jpg",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 1200,
+                                    "height": 1178,
+                                    "sizes": [
+                                        {
+                                            "width": 75,
+                                            "height": 74
+                                        },
+                                        {
+                                            "width": 150,
+                                            "height": 147
+                                        },
+                                        {
+                                            "width": 300,
+                                            "height": 295
+                                        },
+                                        {
+                                            "width": 600,
+                                            "height": 589
+                                        },
+                                        {
+                                            "width": 1200,
+                                            "height": 1178
+                                        }
+                                    ],
+                                    "tiles": [
+                                        {
+                                            "width": 512,
+                                            "height": 512,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ]
+                                        }
+                                    ],
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "formats": [
+                                                "tif",
+                                                "jpg",
+                                                "gif",
+                                                "png"
+                                            ],
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ],
+                                    "type": "ImageService"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/c0856760-7907-4fda-a5af-0d78345de9bd",
+                    "@type": "sc:Canvas",
+                    "height": 5965,
+                    "width": 4700,
+                    "label": "Strasbourg",
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/c0856760-7907-4fda-a5af-0d78345de9bd/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/c0856760-7907-4fda-a5af-0d78345de9bd",
+                            "resource": {
+                                "@id": "https://www.e-manuscripta.ch/i3f/v20/2790192/info.json",
+                                "@type": "dctypes:Image",
+                                "height": 5965,
+                                "width": 4700,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2790192",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "supports": [
+                                                "baseUriRedirect",
+                                                "cors",
+                                                "jsonldMediaType",
+                                                "mirroring",
+                                                "regionByPct",
+                                                "regionByPx",
+                                                "regionSquare",
+                                                "rotationArbitrary",
+                                                "sizeAboveFull",
+                                                "sizeByConfinedWh",
+                                                "sizeByDistortedWh",
+                                                "sizeByH",
+                                                "sizeByPct",
+                                                "sizeByW",
+                                                "sizeByWh"
+                                            ],
+                                            "qualities": [
+                                                "default",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "formats": [
+                                                "jpg"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 4700,
+                                    "height": 5965,
+                                    "sizes": [
+                                        {
+                                            "width": 128,
+                                            "height": 162
+                                        },
+                                        {
+                                            "width": 304,
+                                            "height": 386
+                                        },
+                                        {
+                                            "width": 504,
+                                            "height": 640
+                                        },
+                                        {
+                                            "width": 800,
+                                            "height": 1015
+                                        },
+                                        {
+                                            "width": 1000,
+                                            "height": 1269
+                                        },
+                                        {
+                                            "width": 1200,
+                                            "height": 1523
+                                        },
+                                        {
+                                            "width": 1504,
+                                            "height": 1909
+                                        },
+                                        {
+                                            "width": 2000,
+                                            "height": 2538
+                                        },
+                                        {
+                                            "width": 4700,
+                                            "height": 5965
+                                        }
+                                    ],
+                                    "type": "ImageService",
+                                    "id": "https://www.e-manuscripta.ch/bau/i3f/v20/2790192"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/4844194f-2a31-47e1-93b6-a544ad397013",
+                    "@type": "sc:Canvas",
+                    "height": 4032,
+                    "width": 2975,
+                    "label": "Münster Strassburg, Februar 2023",
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/4844194f-2a31-47e1-93b6-a544ad397013/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/4844194f-2a31-47e1-93b6-a544ad397013",
+                            "resource": {
+                                "@id": "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg/info.json",
+                                "@type": "dctypes:Image",
+                                "height": 4032,
+                                "width": 2975,
+                                "service": {
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                32,
+                                                16,
+                                                8,
+                                                4,
+                                                2,
+                                                1
+                                            ],
+                                            "width": 1024,
+                                            "height": 1024
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "sizes": [
+                                        {
+                                            "width": 93,
+                                            "height": 126
+                                        },
+                                        {
+                                            "width": 186,
+                                            "height": 252
+                                        },
+                                        {
+                                            "width": 372,
+                                            "height": 504
+                                        },
+                                        {
+                                            "width": 744,
+                                            "height": 1008
+                                        },
+                                        {
+                                            "width": 1488,
+                                            "height": 2016
+                                        },
+                                        {
+                                            "width": 2975,
+                                            "height": 4032
+                                        }
+                                    ],
+                                    "profile": "http://iiif.io/api/image/2/level0.json",
+                                    "width": 2975,
+                                    "@id": "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg",
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "height": 4032,
+                                    "type": "ImageService",
+                                    "id": "https://eliaskreyenbuehl.github.io/T1-2023/images/MuensterStrasbourg"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/2b722be6-98e2-47bf-b46b-71bef0434eda",
+                    "@type": "sc:Canvas",
+                    "height": 4721,
+                    "width": 5894,
+                    "label": "Portal Strassburg",
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/2b722be6-98e2-47bf-b46b-71bef0434eda/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/2b722be6-98e2-47bf-b46b-71bef0434eda",
+                            "resource": {
+                                "@id": "https://www.e-manuscripta.ch/i3f/v20/2790195/info.json",
+                                "@type": "dctypes:Image",
+                                "height": 4721,
+                                "width": 5894,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2790195",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "supports": [
+                                                "baseUriRedirect",
+                                                "cors",
+                                                "jsonldMediaType",
+                                                "mirroring",
+                                                "regionByPct",
+                                                "regionByPx",
+                                                "regionSquare",
+                                                "rotationArbitrary",
+                                                "sizeAboveFull",
+                                                "sizeByConfinedWh",
+                                                "sizeByDistortedWh",
+                                                "sizeByH",
+                                                "sizeByPct",
+                                                "sizeByW",
+                                                "sizeByWh"
+                                            ],
+                                            "qualities": [
+                                                "default",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "formats": [
+                                                "jpg"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 5894,
+                                    "height": 4721,
+                                    "sizes": [
+                                        {
+                                            "width": 128,
+                                            "height": 103
+                                        },
+                                        {
+                                            "width": 304,
+                                            "height": 243
+                                        },
+                                        {
+                                            "width": 504,
+                                            "height": 404
+                                        },
+                                        {
+                                            "width": 800,
+                                            "height": 641
+                                        },
+                                        {
+                                            "width": 1000,
+                                            "height": 801
+                                        },
+                                        {
+                                            "width": 1200,
+                                            "height": 961
+                                        },
+                                        {
+                                            "width": 1504,
+                                            "height": 1205
+                                        },
+                                        {
+                                            "width": 2000,
+                                            "height": 1602
+                                        },
+                                        {
+                                            "width": 4000,
+                                            "height": 3204
+                                        },
+                                        {
+                                            "width": 5894,
+                                            "height": 4721
+                                        }
+                                    ],
+                                    "type": "ImageService",
+                                    "id": "https://www.e-manuscripta.ch/bau/i3f/v20/2790195"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/384971d3-4ab7-421e-bfde-6f897a2f1568",
+                    "@type": "sc:Canvas",
+                    "height": 3782,
+                    "width": 2992,
+                    "label": "Portal Strasburg 2",
+                    "metadata": [
+                        {
+                            "label": "source",
+                            "value": "https://swisscollections.ch/Record/991170506163705501"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/384971d3-4ab7-421e-bfde-6f897a2f1568/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/384971d3-4ab7-421e-bfde-6f897a2f1568",
+                            "resource": {
+                                "@id": "https://www.e-manuscripta.ch/i3f/v21/2177711/info.json",
+                                "@type": "dctypes:Image",
+                                "height": 3782,
+                                "width": 2992,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.e-manuscripta.ch/bau/i3f/v21/2177711",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "supports": [
+                                                "baseUriRedirect",
+                                                "cors",
+                                                "jsonldMediaType",
+                                                "mirroring",
+                                                "regionByPct",
+                                                "regionByPx",
+                                                "regionSquare",
+                                                "rotationArbitrary",
+                                                "sizeAboveFull",
+                                                "sizeByConfinedWh",
+                                                "sizeByDistortedWh",
+                                                "sizeByH",
+                                                "sizeByPct",
+                                                "sizeByW",
+                                                "sizeByWh"
+                                            ],
+                                            "qualities": [
+                                                "default",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "formats": [
+                                                "jpg"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2992,
+                                    "height": 3782,
+                                    "sizes": [
+                                        {
+                                            "width": 128,
+                                            "height": 162
+                                        },
+                                        {
+                                            "width": 304,
+                                            "height": 384
+                                        },
+                                        {
+                                            "width": 504,
+                                            "height": 637
+                                        },
+                                        {
+                                            "width": 800,
+                                            "height": 1011
+                                        },
+                                        {
+                                            "width": 1000,
+                                            "height": 1264
+                                        },
+                                        {
+                                            "width": 1200,
+                                            "height": 1517
+                                        },
+                                        {
+                                            "width": 1504,
+                                            "height": 1901
+                                        },
+                                        {
+                                            "width": 2000,
+                                            "height": 2528
+                                        },
+                                        {
+                                            "width": 2992,
+                                            "height": 3782
+                                        }
+                                    ],
+                                    "type": "ImageService",
+                                    "id": "https://www.e-manuscripta.ch/bau/i3f/v21/2177711"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/a163f2e2-f4db-478c-acc5-a1f87488658d",
+                    "@type": "sc:Canvas",
+                    "height": 4400,
+                    "width": 6593,
+                    "label": "Portal Laon",
+                    "description": "Romanische und gothische Kirchen Europas, UBH NL 13 : 39:A:25 https://swisscollections.ch/Record/991170506163705501",
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/a163f2e2-f4db-478c-acc5-a1f87488658d/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/a163f2e2-f4db-478c-acc5-a1f87488658d",
+                            "resource": {
+                                "@id": "https://www.e-manuscripta.ch/i3f/v21/2177777/info.json",
+                                "@type": "dctypes:Image",
+                                "height": 4400,
+                                "width": 6593,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.e-manuscripta.ch/bau/i3f/v21/2177777",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "supports": [
+                                                "baseUriRedirect",
+                                                "cors",
+                                                "jsonldMediaType",
+                                                "mirroring",
+                                                "regionByPct",
+                                                "regionByPx",
+                                                "regionSquare",
+                                                "rotationArbitrary",
+                                                "sizeAboveFull",
+                                                "sizeByConfinedWh",
+                                                "sizeByDistortedWh",
+                                                "sizeByH",
+                                                "sizeByPct",
+                                                "sizeByW",
+                                                "sizeByWh"
+                                            ],
+                                            "qualities": [
+                                                "default",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "formats": [
+                                                "jpg"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 6593,
+                                    "height": 4400,
+                                    "sizes": [
+                                        {
+                                            "width": 128,
+                                            "height": 85
+                                        },
+                                        {
+                                            "width": 304,
+                                            "height": 203
+                                        },
+                                        {
+                                            "width": 504,
+                                            "height": 336
+                                        },
+                                        {
+                                            "width": 800,
+                                            "height": 534
+                                        },
+                                        {
+                                            "width": 1000,
+                                            "height": 667
+                                        },
+                                        {
+                                            "width": 1200,
+                                            "height": 801
+                                        },
+                                        {
+                                            "width": 1504,
+                                            "height": 1004
+                                        },
+                                        {
+                                            "width": 2000,
+                                            "height": 1335
+                                        },
+                                        {
+                                            "width": 4000,
+                                            "height": 2669
+                                        },
+                                        {
+                                            "width": 6593,
+                                            "height": 4400
+                                        }
+                                    ],
+                                    "type": "ImageService",
+                                    "id": "https://www.e-manuscripta.ch/bau/i3f/v21/2177777"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://example.org/canvas/95c30695-f56f-478c-be76-e20f1ccd2b24",
+                    "@type": "sc:Canvas",
+                    "height": 5686,
+                    "width": 4991,
+                    "label": {
+                        "@language": "de",
+                        "@value": "Druck Berner Münster"
+                    },
+                    "images": [
+                        {
+                            "@id": "https://example.org/canvas/95c30695-f56f-478c-be76-e20f1ccd2b24/painting",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://example.org/canvas/95c30695-f56f-478c-be76-e20f1ccd2b24",
+                            "resource": {
+                                "@id": "https://example.org/image/45fd9bcf-e805-4fbc-a865-c0fe1ce80b3d",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpg",
+                                "height": 5686,
+                                "width": 4991,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://www.e-rara.ch/bes_1/i3f/v21/12530938",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "supports": [
+                                                "baseUriRedirect",
+                                                "cors",
+                                                "jsonldMediaType",
+                                                "mirroring",
+                                                "regionByPct",
+                                                "regionByPx",
+                                                "regionSquare",
+                                                "rotationArbitrary",
+                                                "sizeAboveFull",
+                                                "sizeByConfinedWh",
+                                                "sizeByDistortedWh",
+                                                "sizeByH",
+                                                "sizeByPct",
+                                                "sizeByW",
+                                                "sizeByWh"
+                                            ],
+                                            "qualities": [
+                                                "default",
+                                                "color",
+                                                "gray",
+                                                "bitonal"
+                                            ],
+                                            "formats": [
+                                                "jpg"
+                                            ]
+                                        }
+                                    ],
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 4991,
+                                    "height": 5686,
+                                    "sizes": [
+                                        {
+                                            "width": 128,
+                                            "height": 146
+                                        },
+                                        {
+                                            "width": 304,
+                                            "height": 346
+                                        },
+                                        {
+                                            "width": 504,
+                                            "height": 574
+                                        },
+                                        {
+                                            "width": 800,
+                                            "height": 911
+                                        },
+                                        {
+                                            "width": 1000,
+                                            "height": 1139
+                                        },
+                                        {
+                                            "width": 1200,
+                                            "height": 1367
+                                        },
+                                        {
+                                            "width": 1504,
+                                            "height": 1713
+                                        },
+                                        {
+                                            "width": 2000,
+                                            "height": 2279
+                                        },
+                                        {
+                                            "width": 4000,
+                                            "height": 4557
+                                        },
+                                        {
+                                            "width": 4991,
+                                            "height": 5686
+                                        }
+                                    ],
+                                    "type": "ImageService"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": []
+}
